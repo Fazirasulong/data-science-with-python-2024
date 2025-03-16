@@ -16,4 +16,8 @@ Data Science with Python 2023 Course
 
 ![สกรีนช็อต 2025-03-15 160128](https://github.com/user-attachments/assets/4b4bf819-42f9-44f2-bf86-2253cd6b93f4)
 
-3.
+3.This image shows a KNIME workflow for data analysis. It reads a CSV file, computes statistics, and visualizes data using scatter and bar charts. The scatter plot at the bottom displays "Sepal Length (cm)" against "Id," showing data points ranging between 4-7 cm.
+
+![สกรีนช็อต 2025-03-15 160141](https://github.com/user-attachments/assets/b3c1fcce-1677-48d4-8c5f-3a0522f8cb52)
+
+4.This KNIME workflow reads a CSV file, processes data, and visualizes it using bar and scatter plots. The **Bar Chart** at the bottom shows different attributes (Id, Sepal Length, Sepal Width, etc.), categorized by species.
